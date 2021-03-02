@@ -1,3 +1,6 @@
+### Hi there! I'm Emekarr. <img src="https://github.com/AbdussamadYisau/AbdussamadYisau/blob/master/Hi.gif" width="30px">
+
+```javascript
 const about_me = {
     name: "Anyanwu-Ebere Chiemekam",
     skillset: ["Dart", "Flutter", "JavaScript" , "Kotlin", "ExpressJS", "NodeJS"],
@@ -8,3 +11,4 @@ const about_me = {
         
     },
 }
+```
