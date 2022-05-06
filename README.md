@@ -3,7 +3,7 @@
 ```javascript
 const about_me = {
     name: "Anyanwu-Ebere Chiemekam",
-    skillset: ["Typescript", "JavaScript" , "Kotlin", "ExpressJS", "NodeJS"],
+    skillset: ["Typescript", "JavaScript" , "ExpressJS", "NodeJS", "Golang", "Gin"],
     connect: {
         github: "https://github.com/emekarr",
         email: "aceanyanwu02@gmail.com",
